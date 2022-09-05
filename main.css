@@ -1,4 +1,10 @@
 body {
-    background: darkolivegreen;
+    background: olive;
     text-align: center;
+    border: 8px solid saddleBrown;
+}
+
+img {
+    width: 25%;
+    height: auto;
 }
